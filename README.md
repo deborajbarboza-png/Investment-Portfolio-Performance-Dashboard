@@ -1,6 +1,6 @@
 <div align="center">
 
-# Portfolio Notes
+# Notes
 
 *An investment portfolio dashboard by Debora Barboza*
 
